@@ -9,6 +9,6 @@ track shRNA_KD_of_RBPs
 type bigBed 12 +
 itemRgb on
 bigDataUrl KD_all_RBP.bb
-shortLabel shRNA KD of RBPs
+shortLabel shRNA-KD of RBPs
 longLabel shRNA-KD of RNA-binding proteins
 
