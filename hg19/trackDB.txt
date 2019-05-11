@@ -1,6 +1,5 @@
 track eCLIP
 type bigBed 9 +
-itemRgb on
 bigDataUrl eCLIP.bb
 shortLabel eCLIP
 longLabel eCLIP self peaks
