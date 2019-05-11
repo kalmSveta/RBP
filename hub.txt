@@ -1,0 +1,5 @@
+hub RNA binding proteins
+shortLabel RBP
+longLabel RNA binding proteins
+genomesFile genomes.txt
+email svetlana.kalmykova@skoltech.ru
