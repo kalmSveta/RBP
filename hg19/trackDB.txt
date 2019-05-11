@@ -1,0 +1,7 @@
+track ipsa_kidney_site
+type bigBed 9 +
+itemRgb on
+bigDataUrl ipsa_kidney_site.bb
+shortLabel ipsa_kidney_site
+longLabel ipsa_kidney_site
+
